@@ -4,22 +4,23 @@ title: NYC Subway Traffic Analysis
 ---
 
 ![NYC Subway](/images/subway.jpg "NYC Subway")  
+
 ###Team:  
 Don Perkus, John Winter, Michael Zhang, and myself (Sean Osier)
 
 ###Situation:  
-- WomenTechWomenYes International (WTWY), a hypothetical client, is a non-profit that aims to increase the participation of women in technology.  
-- WTWY uses "street teams" at entrances to subway stations as a significant portion of their fundraising efforts.  
-- WTWY engaged us to optimize the effectiveness of their street teams.  
+- _**WomenTechWomenYes International**_ (_**WTWY**_), a hypothetical client, is a non-profit that aims to increase the participation of women in technology.  
+- _**WTWY**_ uses "street teams" at entrances to subway stations as a significant portion of their fundraising efforts.  
+- _**WTWY**_ engaged us to **optimize the effectiveness of their street teams**.  
 
 ###Recommendations:  
  1. **Optimal timing:** Weekday evenings  
  2. **Optimal locations:** Factoring in pure subway traffic volume, proximity to nearby tech startups (and specifically  startups founded by or focused on women), and relative neighborhood affluence, our top stations:  
- - 34th and Herald Square  
- - 42nd and Time Square  
- - 34th and Penn Station  
- - 42nd and Grand Central  
- - 59th and Columbus  
+   1. 34th and Herald Square  
+   2. 42nd and Time Square  
+   3. 34th and Penn Station  
+   4. 42nd and Grand Central  
+   5. 59th and Columbus  
 
 ###Report:  
 <iframe src="https://drive.google.com/a/seanosier.com/file/d/0B90v2XyX9nIARzZiQWUtQ2E1R1k/preview" width="640" height="480"></iframe>
@@ -51,4 +52,4 @@ Don Perkus, John Winter, Michael Zhang, and myself (Sean Osier)
  8. Rank the stations by overall "score"  
 
 ###Code:  
-For the _full_ details checkout my [Github repository](https://github.com/sosier/NYC_Subway_Traffic_Analysis).
+For more details checkout my [Github repository](https://github.com/sosier/NYC_Subway_Traffic_Analysis).
