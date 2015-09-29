@@ -9,9 +9,9 @@ title: NYC Subway Traffic Analysis
 Don Perkus, John Winter, Michael Zhang, and myself (Sean Osier)
 
 ###Situation:  
-- _**WomenTechWomenYes International**_ (_**WTWY**_), a hypothetical client, is a non-profit that aims to increase the participation of women in technology.  
-- _**WTWY**_ uses "street teams" at entrances to subway stations as a significant portion of their fundraising efforts.  
-- _**WTWY**_ engaged us to **optimize the effectiveness of their street teams**.  
+- _WomenTechWomenYes International_ (_WTWY_), a hypothetical client, is a non-profit that aims to increase the participation of women in technology.  
+- _WTWY_ uses "street teams" at entrances to subway stations as a significant portion of their fundraising efforts.  
+- _WTWY_ engaged us to **optimize the effectiveness of their street teams**.  
 
 ###Recommendations:  
  1. **Optimal timing:** Weekday evenings  
@@ -28,7 +28,7 @@ Don Perkus, John Winter, Michael Zhang, and myself (Sean Osier)
 ###Data:  
  - [NYC MTA Turnstile Data](http://web.mta.info/developers/turnstile.html)  
  - [Tech Startups Heatmap](http://www.1776.vc/reports/innovation-that-matters/)  
- - [Women Tech Startups Data](https://www.cbinsights.com)  
+ - [Women Tech Startups](https://www.cbinsights.com)  
  - [Average Income by Manhattan ZIP code](http://zipatlas.com/us/ny/new-york/zip-code-comparison/average-income-per-person.htm)  
 
 ###Technologies:  
