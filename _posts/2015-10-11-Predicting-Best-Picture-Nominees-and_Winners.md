@@ -15,22 +15,34 @@ title: Predicting Best Picture Nominees and Winners
 
 ###Findings:  
  1. **Short Answer:** No  
+
  2. **Long Answer:** Not Really  
+
    - My best model is **98% accurate** at predicting Best Picture winner / nominee status  
    - **BUT…** does so by saying **no movies are ever nominated** (much less picking a winner) yielding a **0% true positive rate**  
    - Essentially, there are SO MANY more movies that are not nominated than are that the model can not be forced to actually make predictions without severe overfitting to the data  
+
  3. Nevertheless, I was able to identify some factors which are **strong predictors of Best Picture nomination success**. In order of predictive power these are:  
 
-   1. **Director(s)** - Directors with a history of consistently directing Best Picture nominees (e.g. Martin Scorsese) strongly improve a movie's odds
+   1. **Director(s)** - Directors with a history of consistently directing Best Picture nominees (e.g. Martin Scorsese) strongly improve a movie's odds  
+
    2. **Stars (Leading actors / actresses)** - Similarly, stars with a history of strong Oscar level performances (e.g. Jack Nicholson) also strongly improve a movie's chances  
-   3. **Writer(s)** - The same holds true for writers
+
+   3. **Writer(s)** - The same holds true for writers  
+
    4. **Genre** - Westerns, bio-pics, war movies, and romances are more likely to be nominated, whereas animated movies are less likely
-   5. **Country** - Foreign (non-US) movies are disadvantaged
-   6. **Language** - Similarly, foreign language movies are also disadvantaged
-   7. **Critical Opinion** - Critical reception is important only a gatekeeper punishing poorly rated movies, but once a movie passes a certain threshold and is deemed "good enough" more positive critical reception has very little effect
-   8. **Public Opinion** - The same holds true for reception by the general public
-   9. **Number of Nominees in Year** - Obviously, if a movie is competing since 2009 when the number of nominees was increased, it stands a slightly higher chance of being nominated
-   10. **Month of Release** - Movies released late in the year also have a very slight advantage
+
+   5. **Country** - Foreign (non-US) movies are disadvantaged  
+
+   6. **Language** - Similarly, foreign language movies are also disadvantaged  
+
+   7. **Critical Opinion** - Critical reception is important only a gatekeeper punishing poorly rated movies, but once a movie passes a certain threshold and is deemed "good enough" more positive critical reception has very little effect  
+
+   8. **Public Opinion** - The same holds true for reception by the general public  
+
+   9. **Number of Nominees in Year** - Obviously, if a movie is competing since 2009 when the number of nominees was increased, it stands a slightly higher chance of being nominated  
+
+   10. **Month of Release** - Movies released late in the year also have a very slight advantage  
 
 ###Report:  
 <iframe src="https://drive.google.com/a/seanosier.com/file/d/0B90v2XyX9nIAUVlyWmpxbkdEUUU/preview" width="640" height="480"></iframe>
