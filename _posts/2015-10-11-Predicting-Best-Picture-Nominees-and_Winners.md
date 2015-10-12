@@ -3,7 +3,7 @@ layout: post
 title: Predicting Best Picture Nominees and Winners
 ---
 
-![2015 Best Picture Nominees](/images/best-picture-nominees.jpg "2015 Best Picture Nominees")  
+![2015 Best Picture Nominees](https://github.com/sosier/sosier.github.io/blob/master/images/best_picture_nominees.jpg?raw=true "2015 Best Picture Nominees")  
 
 ###Background:  
 - **The Academy Awards** or **The Oscars** are an annual American awards ceremony honoring cinematic achievements in the film industry
@@ -18,8 +18,9 @@ title: Predicting Best Picture Nominees and Winners
  2. **Long Answer:** Not Really  
    - My best model is **98% accurate** at predicting Best Picture winner / nominee status  
    - **BUT…** does so by saying **no movies are ever nominated** (much less picking a winner) yielding a **0% true positive rate**  
-   - Essentially, there are SO MANY more movies that are not nominated than are that the model could not be forced to actually make predictions without severe overfitting to the data  
+   - Essentially, there are SO MANY more movies that are not nominated than are that the model can not be forced to actually make predictions without severe overfitting to the data  
  3. Nevertheless, I was able to identify some factors which are **strong predictors of Best Picture nomination success**. In order of predictive power these are:  
+
    1. **Director(s)** - Directors with a history of consistently directing Best Picture nominees (e.g. Martin Scorsese) strongly improve a movie's odds
    2. **Stars (Leading actors / actresses)** - Similarly, stars with a history of strong Oscar level performances (e.g. Jack Nicholson) also strongly improve a movie's chances  
    3. **Writer(s)** - The same holds true for writers
