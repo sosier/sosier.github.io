@@ -16,7 +16,7 @@ title: Predicting Best Picture Nominees and Winners
 ###Findings:  
  1. **Short Answer:** No  
 
- 2. **Long Answer:** Not Really  
+ 2. **Long Answer:** No, not really  
    - My best model is **98% accurate** at predicting Best Picture winner / nominee status  
    - **BUT…** does so by saying **no movies are ever nominated** (much less picking a winner) yielding a **0% true positive rate**  
    - Essentially, there are SO MANY more movies that are not nominated than are that the model can not be forced to actually make predictions without severe overfitting to the data
