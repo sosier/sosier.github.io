@@ -20,7 +20,8 @@ title: Predicting Best Picture Nominees and Winners
 
    - My best model is **98% accurate** at predicting Best Picture winner / nominee status  
    - **BUT…** does so by saying **no movies are ever nominated** (much less picking a winner) yielding a **0% true positive rate**  
-   - Essentially, there are SO MANY more movies that are not nominated than are that the model can not be forced to actually make predictions without severe overfitting to the data  
+   - Essentially, there are SO MANY more movies that are not nominated than are that the model can not be forced to actually make predictions without severe overfitting to the data
+ 
  3. Nevertheless, I was able to identify some factors which are **strong predictors of Best Picture nomination success**. In order of predictive power these are:  
 
    1. **Director(s)** - Directors with a history of consistently directing Best Picture nominees (e.g. Martin Scorsese) strongly improve a movie's odds  
