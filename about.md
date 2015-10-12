@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm Sean. That's me up there at the top of the page. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'll be filling this out more soon. In the meantime, please enjoy the rest of my blog!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sean@seanosier.com](sean@seanosier.com)
