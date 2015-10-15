@@ -55,6 +55,7 @@ title: Predicting Best Picture Nominees and Winners
  - Python  
  - BeautifulSoup  
  - Selenium  
+ - Pickle  
  - Pandas  
  - Statsmodels  
  - scikit-learn  
